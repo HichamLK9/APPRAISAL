@@ -7,8 +7,9 @@ venv/
 *.egg-info/
 .env
 
-# SQLite DB and CSVs
+# SQLite DB and CSVs (generated at runtime)
 backend/data/
+data/
 
 # Node
 frontend/node_modules/
